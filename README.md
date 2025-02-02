@@ -56,12 +56,12 @@ Before you begin, ensure you have the following installed:
 4. Project setup:
    ```bash
    # Clone the repository
-   git clone https://github.com/aws-samples/online-document-manager-amplify
+   git clone https://github.com/vanhoangkha/aws-online-document-manager
 
    # Alternative: download source code directly
 
    # Install dependencies
-   cd online-document-manager-amplify
+   cd aws-online-document-manager-amplify
    npm install
    ```
 
